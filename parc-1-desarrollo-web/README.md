@@ -17,7 +17,7 @@ Programa de consola en Node.js que permite crear usuarios con autenticación (us
 
 ## Requisitos
 
-Solo Node.js (no se necesita instalar ninguna dependencia, el programa usa únicamente módulos incluidos en Node: `readline` y `crypto`).
+Solo Node.js (el programa usa módulos incluidos en Node: `readline` y `crypto`).
 
 ## Ejecución
 
